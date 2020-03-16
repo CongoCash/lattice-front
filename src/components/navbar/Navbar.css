@@ -1,0 +1,28 @@
+.logo {
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.input-search {
+    background-color: black;
+    width: 80%;
+    color: white;
+    border: 2px solid white;
+    padding-left: 5px;
+}
+
+::placeholder {
+    color: white;
+    opacity: 1;
+}
+
+.search-button {
+    width: 20%;
+    height: 30px;
+}
+
+.navbar-css {
+    height: 70px;
+    background-color: black;
+}

@@ -1,0 +1,14 @@
+.results-found {
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.highlight-movie {
+    border: 5px solid black;
+    width: 100%;
+}
+
+.highlight-movie:hover {
+    border: 5px solid red;
+}
